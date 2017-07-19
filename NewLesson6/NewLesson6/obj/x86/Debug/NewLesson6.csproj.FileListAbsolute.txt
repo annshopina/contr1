@@ -1,0 +1,5 @@
+/Users/ann/Projects/NewLesson6/NewLesson6/bin/Debug/NewLesson6.exe
+/Users/ann/Projects/NewLesson6/NewLesson6/bin/Debug/NewLesson6.pdb
+/Users/ann/Projects/NewLesson6/NewLesson6/obj/x86/Debug/NewLesson6.csproj.CoreCompileInputs.cache
+/Users/ann/Projects/NewLesson6/NewLesson6/obj/x86/Debug/NewLesson6.exe
+/Users/ann/Projects/NewLesson6/NewLesson6/obj/x86/Debug/NewLesson6.pdb

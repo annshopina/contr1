@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3655B031-E4A5-4377-AF32-566247BA1487}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewLesson6/Program.cs">
+    <Files>
+      <File FileName="NewLesson6/Program.cs" Line="26" Column="46" />
+      <File FileName="Состояние: NewLesson6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
